@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+ENV/
+.env/
+.venv/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Installer/log/test files
+test_*.py
+*.log
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Windows
+*.exe
+*.dll
+*.bat
+*.msi
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Misc
+*.swp
+*.swo 

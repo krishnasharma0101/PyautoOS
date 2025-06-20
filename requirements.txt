@@ -1,0 +1,7 @@
+pyautogui
+pyperclip
+pytesseract
+pywinauto
+psutil
+opencv-python
+mss 
