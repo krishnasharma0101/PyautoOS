@@ -63,7 +63,7 @@
 ## 🛠️ Installation
 
 ```bash
-pip install pyautoos
+pip install git+https://github.com/krishnasharma0101/PyautoOS
 ```
 
 - On first use, Tesseract OCR will be installed automatically on Windows if not found (may require admin rights).
